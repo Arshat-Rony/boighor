@@ -1,0 +1,86 @@
+[
+    {
+        "id": "623e16fe52266561580a7dd9",
+        "index": 1,
+        "picture": "https://i.ebayimg.com/images/g/YEUAAOSw45VdXG7N/s-l400.jpg",
+        "price": 165,
+        "name": "Think and Grow Rich"
+    },
+    {
+        "id": "623e16fe973645280151b1f4",
+        "index": 2,
+        "picture": "https://cf.shopee.ph/file/f30ed08db969af82151ad46be81f19e8",
+        "price": 282,
+        "name": "Eloquent Javascript"
+    },
+    {
+        "id": "623e16fe459e2c2c68566752",
+        "index": 3,
+        "picture": "https://images.squarespace-cdn.com/content/v1/5e0129c5956b7a5624566864/1598158772928-2LW4G11DVYY7VWFH6EOO/javascript-the-definitive-edition-mockup",
+        "price": 247,
+        "name": "Javascript The Denitive Guide"
+    },
+    {
+        "id": "623e16fe60bc64a00c0ed5be",
+        "index": 4,
+        "picture": "https://images-na.ssl-images-amazon.com/images/I/5131OWtQRaL._SX381_BO1,204,203,200_.jpg",
+        "price": 200,
+        "name": "Javascript The Good Parts"
+    },
+    {
+        "id": "623e16feebed314d13090a88",
+        "index": 5,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdkO1Ilh_1NnhoZOyCrZMyrv-j_akUOB0XIA&usqp=CAU",
+        "price": "199",
+        "name": "Javascript For Professionals"
+    },
+    {
+        "id": "623e16fe5333aad9bd2b4cc4",
+        "index": 6,
+        "picture": "https://www.perlego.com/books/RM_Books/bpb_publications_ypztlual/thumbnail_9789389328721.jpg",
+        "price": 167,
+        "name": "Javascript WIth Modern Web Developnent"
+    },
+    {
+        "id": "623e16fede6e0a41c6547989",
+        "index": 7,
+        "picture": "https://theappsblaster.com/wp-content/uploads/2019/12/978-1-4302-7218-2.jpg",
+        "price": 241,
+        "name": "Javascript For Absolute Beginners"
+    },
+    {
+        "id": "623e16fee16d1a41c4213148",
+        "index": 8,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsAtFIiHZfGA4nOzKPsHaqYVtKueLlZQks2A&usqp=CAU",
+        "price": 141,
+        "name": "Coding Practices for Javascript"
+    },
+    {
+        "id": "623e16feccb5b0d044c92852",
+        "index": 9,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPTZyyxEhydSkmiTeQCWSI7RPpW4vAufY6pw&usqp=CAU",
+        "price": 269,
+        "name": "Effective Javascript"
+    },
+    {
+        "id": "623e16fedc2b8b448c8761c7",
+        "index": 10,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSa9UA5hKgMpGhQd7XQVd7mclXFNpxNom8xa1q16J6MyK95X2xrASyn567RhKYw1YEgoM&usqp=CAU",
+        "price": 241,
+        "name": "Arduino Programming"
+    },
+    {
+        "id": "623e16fe17340282f3a62657",
+        "index": 11,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvv3whrSB8tIZcqJQVsGVK1tPA6pdf-dLv1A&usqp=CAU",
+        "price": 228,
+        "name": "Crack the Interview"
+    },
+    {
+        "id": "623e16fe40443a6d3f800a37",
+        "index": 12,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPpuN_3UDzN5vSkPRKJn5hlMkIiHCy_u-Nrw&usqp=CAU",
+        "price": 200,
+        "name": "Hands on programming with R"
+    }
+]
